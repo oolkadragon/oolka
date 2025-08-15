@@ -1,5 +1,16 @@
-# oolka
-just testing rn.
-<br>
-testing pt 2 and now third time
-(use html tags to perform operations)
+git status
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reptile Interactive Cursor</title>
+</head>
+<body>
+    <body>
+    <script  src="./script.js"></script>
+  
+  </body>
+  </html>
+</body>
+</html>
